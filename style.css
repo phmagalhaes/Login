@@ -1,0 +1,98 @@
+a{
+    color: rgb(97, 97, 97);
+}
+
+#login h1, #cadastro h1, #senhaconf h1{
+    text-align: center;
+}
+
+#login{
+    width: 60%;
+    padding: 50px;
+    border-radius: 30px;
+    margin: 70px;
+    margin-left: 280px;
+
+    -webkit-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    -moz-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    background-color:  rgb(222, 222, 255);
+}
+
+#cadastro{
+    width: 60%;
+    padding: 50px;
+    border-radius: 30px;
+    margin: 70px;
+    margin-left: 280px;
+
+    -webkit-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    -moz-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    background-color:  rgb(222, 222, 255);
+}
+
+#senhaconf{
+    width: 60%;
+    padding: 50px;
+    border-radius: 30px;
+    margin: 70px;
+    margin-left: 280px;
+
+    -webkit-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    -moz-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    background-color:  rgb(222, 222, 255);
+}
+
+h1 {
+    margin-bottom: 6%;
+}
+
+body{
+    background-color: rgb(156, 161, 255);
+}
+
+@media (max-width: 1200px){
+    #login{
+        width: 80%;
+        padding: 50px;
+        border-radius: 30px;
+        margin: 160px;
+        margin-left: 50px;
+        margin-top: 180px;
+    
+        -webkit-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+        -moz-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+        box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+        background-color:  rgb(222, 222, 255);
+    }
+    
+    #cadastro{
+        width: 80%;
+        padding: 50px;
+        border-radius: 30px;
+        margin: 160px;
+        margin-left: 50px;
+        margin-top: 180px;
+    
+        -webkit-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+        -moz-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+        box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+        background-color:  rgb(222, 222, 255);
+    }
+    
+    #senhaconf{
+         width: 80%;
+        padding: 50px;
+        border-radius: 30px;
+        margin: 160px;
+        margin-left: 50px;
+        margin-top: 180px;
+    
+        -webkit-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+        -moz-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+        box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+        background-color:  rgb(222, 222, 255);
+    }
+}
